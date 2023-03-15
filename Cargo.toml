@@ -82,4 +82,4 @@ lto = true
 [patch.crates-io]
 openssl-sys = { git = "https://github.com/niklasha/rust-openssl", branch = "libressl_3_7" }
 libgit2-sys = { git = 'https://github.com/rust-lang/git2-rs.git', commit = '68b12efd6463c57deff56f4f7488a042461049d3' }
-
+fs_at = { git = 'https://github.com/niklasha/fs_at.git', branch = 'openbsd-openat' }
